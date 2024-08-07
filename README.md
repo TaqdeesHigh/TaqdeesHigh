@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Taqdees]!
 
-I'm a **Backend and Infrastructure Developer** with a passion for creating robust and scalable applications. I enjoy working on both the front end and back end, ensuring seamless integration and optimal performance.
+I'm a **Backend ** with a passion for creating robust and scalable applications. I enjoy working on both the front end and back end, ensuring seamless integration and optimal performance.
 
 ## 🛠️ Technologies & Tools
 
@@ -17,10 +17,6 @@ I'm a **Backend and Infrastructure Developer** with a passion for creating robus
 
 ### Databases:
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-## 🚀 What I Do
-
-I specialize in building and maintaining full-stack applications, with a strong focus on infrastructure. Whether it's designing a responsive front-end, creating efficient back-end logic, or ensuring the infrastructure is reliable and scalable, I strive to deliver high-quality solutions.
 
 ## 📊 My Skills
 
