@@ -45,8 +45,9 @@ pie
 
 Here are some of my favorite projects:
 - [![Portfolion-Template 1](https://img.shields.io/badge/Project%201-Click%20Here-brightgreen)]([link](https://github.com/TaqdeesHigh/Portfolio)):
-- [![ChattingWeb-Template 2](https://img.shields.io/badge/Project%202-Click%20Here-brightgreen)]([link](https://github.com/TaqdeesHigh/ChattingWeb-Template)): 
-**I'm also working on some more open source projects**
+- [![ChattingWeb-Template 2](https://img.shields.io/badge/Project%202-Click%20Here-brightgreen)]([link](https://github.com/TaqdeesHigh/ChattingWeb-Template)):
+- **I'm also working on some more open source projects**
+
 
 ## 📫 Get In Touch
 
