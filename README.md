@@ -38,8 +38,8 @@ pie
 ## 🌟 Projects
 
 Here are some of my favorite projects:
-- Portfolion-Template [Link)[https://github.com/TaqdeesHigh/Portfolio]:
-- ChattingWeb-Template [Link](https://github.com/TaqdeesHigh/ChattingWeb-Template):
+- Portfolion-Template: [Link](https://github.com/TaqdeesHigh/Portfolio)
+- ChattingWeb-Template: [Link](https://github.com/TaqdeesHigh/ChattingWeb-Template)
 - **I'm also working on some more open source projects**
 
 
