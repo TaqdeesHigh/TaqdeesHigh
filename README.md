@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Taqdees]!
+![image](https://github.com/user-attachments/assets/0f16d98c-be37-43a1-9215-bdeada1fd61d)# Hi there 👋, I'm [Taqdees]!
 
 I'm a **Full Stack and Infrastructure Developer** with a passion for creating robust and scalable applications. I enjoy working on both the front end and back end, ensuring seamless integration and optimal performance.
 
@@ -9,9 +9,6 @@ I'm a **Full Stack and Infrastructure Developer** with a passion for creating ro
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-- ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
 ### Frameworks & Libraries:
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -33,9 +30,6 @@ pie
     "HTML/CSS": 15
     "JavaScript": 20
     "PHP": 15
-    "Lua": 10
-    "Go": 10
-    "Rust": 10
     "React": 10
     "Node.js": 5
     "Laravel": 5
