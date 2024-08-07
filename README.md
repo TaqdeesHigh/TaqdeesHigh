@@ -39,6 +39,7 @@ pie
     "React": 10
     "Node.js": 5
     "Laravel": 5
+```
 
 ## 🌟 Projects
 
