@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0f16d98c-be37-43a1-9215-bdeada1fd61d)# Hi there 👋, I'm [Taqdees]!
+# Hi there 👋, I'm [Taqdees]!
 
 I'm a **Full Stack and Infrastructure Developer** with a passion for creating robust and scalable applications. I enjoy working on both the front end and back end, ensuring seamless integration and optimal performance.
 
@@ -38,8 +38,8 @@ pie
 ## 🌟 Projects
 
 Here are some of my favorite projects:
-- [![Portfolion-Template 1](https://img.shields.io/badge/Project%201-Click%20Here-brightgreen)]([link](https://github.com/TaqdeesHigh/Portfolio)):
-- [![ChattingWeb-Template 2](https://img.shields.io/badge/Project%202-Click%20Here-brightgreen)]([link](https://github.com/TaqdeesHigh/ChattingWeb-Template)):
+- [![Portfolion-Template 1](https://img.shields.io/badge/Project%201-Click%20Here-brightgreen)[https://github.com/TaqdeesHigh/Portfolio]:
+- [![ChattingWeb-Template 2](https://img.shields.io/badge/Project%202-Click%20Here-brightgreen)[https://github.com/TaqdeesHigh/ChattingWeb-Template]:
 - **I'm also working on some more open source projects**
 
 
