@@ -28,6 +28,7 @@ pie
     "HTML/CSS": 15
     "JavaScript": 20
     "PHP": 15
+    "Python": 4
     "React": 10
     "Node.js": 5
     "Laravel": 5
