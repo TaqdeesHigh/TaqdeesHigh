@@ -10,6 +10,7 @@ I'm a **Backend** with a passion for creating robust and scalable applications. 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-777BB4?style=flat&logo=python&logoColor=yellow)
+- ![C#](https://img.shields.io/badge/-c#-777BB4?style=flat&logo=c#&logoColor=blue)
 
 ### Frameworks & Libraries:
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -28,6 +29,7 @@ pie
     "HTML/CSS": 15
     "JavaScript": 20
     "PHP": 15
+    "C#": 2
     "React": 10
     "Node.js": 5
     "Laravel": 5
