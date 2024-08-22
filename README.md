@@ -22,10 +22,15 @@ I'm a **Backend** with a passion for creating robust and scalable applications. 
 
 ### Working at:
 ### - Viola -
+- ![Viola-Website](https://violanetwork.com)
 - ![Viola-Git](https://github.com/Viola-Network)
 - ![Viola-Twitter](https://x.com/Violaium)
 - ![Viola-Discord](https://violanetwork.com/discord)
 
+### - VidPlo
+- ![VidPlo-Website](https://vidplo.violanetwork.com)
+- ![VidPlo-Discord](https://discord.gg/nqVxvDXRkW)
+  
 ## 📊 My Skills
 
 ```mermaid
