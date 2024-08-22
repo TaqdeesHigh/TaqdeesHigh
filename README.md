@@ -20,6 +20,12 @@ I'm a **Backend** with a passion for creating robust and scalable applications. 
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![MariaDB](https://img.shields.io/badge/-MariaDB-4479A1?style=flat&logo=mariadb&logoColor=white)
 
+### Working at:
+### - Viola -
+- ![Viola-Git](https://github.com/Viola-Network)
+- ![Viola-Twitter](https://x.com/Violaium)
+- ![Viola-Discord](https://violanetwork.com/discord)
+
 ## 📊 My Skills
 
 ```mermaid
