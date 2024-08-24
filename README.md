@@ -1,65 +1,101 @@
-# Hi there 👋, I'm [Taqdees]!
+# 👨‍💻 Taqdees | Backend Developer
 
-I'm a **Backend** with a passion for creating robust and scalable applications. I enjoy working on both the front end and back end, ensuring seamless integration and optimal performance.
+> Crafting digital experiences, one line of code at a time.
 
-## 🛠️ Technologies & Tools
+<p align="center">
+  <a href="mailto:taqdees678@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://github.com/TaqdeesHigh/"><img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github" alt="GitHub"></a>
+</p>
 
-### Languages:
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-777BB4?style=flat&logo=python&logoColor=yellow)
+## 🚀 Tech Arsenal
 
-### Frameworks & Libraries:
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
 
-### Databases:
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- ![MariaDB](https://img.shields.io/badge/-MariaDB-4479A1?style=flat&logo=mariadb&logoColor=white)
+## 💼 Professional Journey
 
-### Working at:
-### - Viola -
-- ![Viola-Website](https://violanetwork.com)
-- ![Viola-Git](https://github.com/Viola-Network)
-- ![Viola-Twitter](https://x.com/Violaium)
-- ![Viola-Discord](https://violanetwork.com/discord)
+<div align="center">
+  <img src="https://img.shields.io/badge/Viola-Network%20Engineer-purple?style=for-the-badge" alt="Viola">
+  <img src="https://img.shields.io/badge/VidPlo-Backend%20Developer-orange?style=for-the-badge" alt="VidPlo">
+</div>
 
-### - VidPlo
-- ![VidPlo-Website](https://vidplo.violanetwork.com)
-- ![VidPlo-Discord](https://discord.gg/nqVxvDXRkW)
-  
-## 📊 My Skills
+### 🌐 Viola Network
+- [Learn more](https://violanetwork.com)
+
+### 🎥 VidPlo
+- Optimizing video streaming performance
+- [Explore VidPlo](https://vidplo.violanetwork.com)
+
+## 📊 Skill Breakdown
 
 ```mermaid
-pie
-    title My Skillset
-    "HTML/CSS": 15
-    "JavaScript": 20
-    "PHP": 15
-    "Python": 4
-    "React": 10
-    "Node.js": 5
-    "Laravel": 5
+graph TD
+    A --> C[Backend]
+    B --> E[HTML/CSS]
+    B --> F[JavaScript]
+    B --> G[React]
+    C --> H[PHP]
+    C --> I[Python]
+    C --> J[C#]
+    C --> K[Node.js]
+    C --> L[Laravel]
 ```
 
-## 🌟 Projects
+## 💡 Let's Collaborate!
 
-Here are some of my favorite projects:
-- Portfolion-Template: [Link](https://github.com/TaqdeesHigh/Portfolio)
-- ChattingWeb-Template: [Link](https://github.com/TaqdeesHigh/ChattingWeb-Template)
-- VideoCache: [Link](https://github.com/TaqdeesHigh/VideoCache)
-- **I'm also working on some more open source projects**
+I'm always excited to work on innovative projects and solve challenging problems. Whether you have a project idea, need technical advice, or just want to chat about the latest in tech, I'm all ears!
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taqdeesHigh&show_icons=true&theme=radical" alt="TaqdeesHigh' GitHub Stats">
+</div>
 
-## 📫 Get In Touch
-
-Feel free to reach out if you want to collaborate on a project, need help with something, or just want to connect.
-
-- [![Email](https://img.shields.io/badge/Email-taqdees678@gmail.com-blue)](mailto:taqdees678@gmail.com)
-- Discord: taqdees__
-
-Thanks for visiting my profile! Looking forward to connecting with you!
-
+<p align="center">Made with ❤️ and ☕ by Taqdees</p>
+```
