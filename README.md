@@ -62,11 +62,6 @@
 
 ## 💼 Professional Journey
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Viola-Network%20Engineer-purple?style=for-the-badge" alt="Viola">
-  <img src="https://img.shields.io/badge/VidPlo-Backend%20Developer-orange?style=for-the-badge" alt="VidPlo">
-</div>
-
 ### 🌐 Viola Network
 - [Learn more](https://violanetwork.com)
 
@@ -98,4 +93,3 @@ I'm always excited to work on innovative projects and solve challenging problems
 </div>
 
 <p align="center">Made with ❤️ and ☕ by Taqdees</p>
-```
