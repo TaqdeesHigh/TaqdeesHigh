@@ -1,6 +1,3 @@
-Certainly! I'll create a more unique and modern design for your profile. Here's a completely redesigned version that aims to be both visually striking and professional:
-
-```markdown
 <div align="center">
   <img src="https://img.shields.io/badge/-%F0%9F%92%BB%20Taqdees%20%7C%20Full%20Stack%20Alchemist-222222?style=for-the-badge" alt="Taqdees | Full Stack Alchemist" />
 </div>
