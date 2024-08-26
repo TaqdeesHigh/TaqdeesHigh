@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%92%BB%20Taqdees%20%7C%20Full%20Stack%20Alchemist-222222?style=for-the-badge" alt="Taqdees | Full Stack Alchemist" />
+  <img src="https://img.shields.io/badge/-%F0%9F%92%BB%20Taqdees%20%7C%20Backend-222222?style=for-the-badge" alt="Taqdees | Backend Developer" />
 </div>
 
 <p align="center">
@@ -23,31 +23,31 @@
 
 <br />
 
-## 🧪 Tech Elixirs
+## 🧪 Languages
 
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html,css,js,react" />
       <br>
-      <strong>Frontend Brew</strong>
+      <strong>Frontend</strong>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=php,py,cs,nodejs,laravel" />
       <br>
-      <strong>Backend Potion</strong>
+      <strong>Backend</strong>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
       <br>
-      <strong>Data Cauldron</strong>
+      <strong>Database</strong>
     </td>
   </tr>
 </table>
 
-## 🔮 Magical Endeavors
+## 🔮 Working at
 
 <details>
 <summary><strong>🌐 Viola Network</strong></summary>
@@ -60,7 +60,7 @@ Weaving digital tapestries that connect worlds
 <details>
 <summary><strong>🎥 VidPlo</strong></summary>
 <br>
-Conjuring seamless streams in the digital realm
+seamless streaming video platform
 <br>
 <a href="https://vidplo.violanetwork.com">🔗 Witness the Spectacle</a>
 </details>
@@ -93,10 +93,10 @@ graph TD
 
 ## 💫 Summon Me for Collaboration!
 
-Are you ready to embark on a digital odyssey? Whether you're scheming to craft the next revolutionary app, unravel complex backend enigmas, or simply engage in a riveting discourse on the arcane arts of technology, I'm your ally in this quest!
+Want to collab? Hit me up!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Development;Creative+Problem+Solving;Innovative+Solutions;Continuous+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend;Creative+Problem+Solving;Innovative+Solutions;Continuous+Learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
