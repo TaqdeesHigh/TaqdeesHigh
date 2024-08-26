@@ -1,68 +1,109 @@
-# 👨‍💻 Taqdees | Backend Developer
+Certainly! I'll create a more unique and modern design for your profile. Here's a completely redesigned version that aims to be both visually striking and professional:
 
-<p align="center">
-  <a href="mailto:taqdees678@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-FF4088?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://github.com/TaqdeesHigh/"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-</p>
-
-## 🚀 Tech Stack
-
+```markdown
 <div align="center">
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+  <img src="https://img.shields.io/badge/-%F0%9F%92%BB%20Taqdees%20%7C%20Full%20Stack%20Alchemist-222222?style=for-the-badge" alt="Taqdees | Full Stack Alchemist" />
 </div>
 
-## 💼 Professional Experience
+<p align="center">
+  <em>Transforming ideas into digital gold, one line of code at a time</em>
+</p>
 
-### 🌐 Viola Network
-Revolutionizing network solutions
-- [Learn more](https://violanetwork.com)
+<div align="center">
+  <a href="mailto:taqdees678@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4088?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/TaqdeesHigh/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-### 🎥 VidPlo
-Optimizing video streaming performance
-- [Explore VidPlo](https://vidplo.violanetwork.com)
+<br />
 
-## 📊 Skill Distribution
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taqdeesHigh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="TaqdeesHigh's GitHub Stats" />
+</div>
+
+<br />
+
+## 🧪 Tech Elixirs
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+      <br>
+      <strong>Frontend Brew</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php,py,cs,nodejs,laravel" />
+      <br>
+      <strong>Backend Potion</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+      <br>
+      <strong>Data Cauldron</strong>
+    </td>
+  </tr>
+</table>
+
+## 🔮 Magical Endeavors
+
+<details>
+<summary><strong>🌐 Viola Network</strong></summary>
+<br>
+Weaving digital tapestries that connect worlds
+<br>
+<a href="https://violanetwork.com">🔗 Explore the Magic</a>
+</details>
+
+<details>
+<summary><strong>🎥 VidPlo</strong></summary>
+<br>
+Conjuring seamless streams in the digital realm
+<br>
+<a href="https://vidplo.violanetwork.com">🔗 Witness the Spectacle</a>
+</details>
+
+## 🧙‍♂️ Skill
 
 ```mermaid
 graph TD
-    A[Full Stack Development] --> B[Frontend]
+    A --> B[Frontend]
     A --> C[Backend]
-    B --> D[HTML/CSS]
-    B --> E[JavaScript]
-    B --> F[React]
-    C --> G[PHP]
-    C --> H[Python]
-    C --> I[C#]
-    C --> J[Node.js]
-    C --> K[Laravel]
-    A --> L[Databases]
-    L --> M[MySQL]
-    L --> N[MongoDB]
+    
+    B --> E[HTML/CSS]
+    B --> F[JavaScript]
+    B --> G[React]
+    
+    C --> H[PHP]
+    C --> I[Python]
+    C --> J[C#]
+    C --> K[Node.js]
+    C --> L[Laravel]
+    
+    D --> M[MySQL]
+    D --> N[MongoDB]
+
+    style A fill:#58A6FF,stroke:#58A6FF,stroke-width:2px
+    style B fill:#FF4088,stroke:#FF4088,stroke-width:2px
+    style C fill:#00CC66,stroke:#00CC66,stroke-width:2px
+    style D fill:#FFD700,stroke:#FFD700,stroke-width:2px
 ```
 
-## 💡 Let's Innovate Together!
+## 💫 Summon Me for Collaboration!
 
-I'm passionate about turning ideas into reality through code. Whether you're looking to build a groundbreaking app, optimize your backend, or discuss the latest tech trends, I'm here to collaborate!
+Are you ready to embark on a digital odyssey? Whether you're scheming to craft the next revolutionary app, unravel complex backend enigmas, or simply engage in a riveting discourse on the arcane arts of technology, I'm your ally in this quest!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taqdeesHigh&show_icons=true&theme=tokyonight" alt="TaqdeesHigh's GitHub Stats">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Development;Creative+Problem+Solving;Innovative+Solutions;Continuous+Learning" alt="Typing SVG" />
 </div>
 
-<p align="center">Crafted with ❤️ and ☕ by Taqdees | © 2024</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Crafted%20with-🔮%20and%20☕-blueviolet?style=for-the-badge" alt="Crafted with Heart and coffee" />
+</p>
+
+<p align="center">© 2024 Taqdees | All rights reserved</p>
