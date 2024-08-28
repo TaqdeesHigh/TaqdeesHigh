@@ -102,5 +102,3 @@ Want to collab? Hit me up!
 <p align="center">
   <img src="https://img.shields.io/badge/Crafted%20with-🔮%20and%20☕-blueviolet?style=for-the-badge" alt="Crafted with Heart and coffee" />
 </p>
-
-<p align="center">© 2024 Taqdees | All rights reserved</p>
