@@ -93,7 +93,9 @@ graph TD
 
 ## 💫 Summon Me for Collaboration!
 
-Want to collab? Hit me up!
+Want to collab? Hit me up! at 
+Email: taqdees678@gmail.com
+Discord: taqdees__
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend;Creative+Problem+Solving;Innovative+Solutions;Continuous+Learning" alt="Typing SVG" />
