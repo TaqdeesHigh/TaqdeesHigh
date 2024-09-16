@@ -2,10 +2,6 @@
   <img src="https://img.shields.io/badge/-%F0%9F%92%BB%20Taqdees%20%7C%20Backend-222222?style=for-the-badge" alt="Taqdees | Backend Developer" />
 </div>
 
-<p align="center">
-  <em>Transforming ideas into digital gold, one line of code at a time</em>
-</p>
-
 <div align="center">
   <a href="mailto:taqdees678@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF4088?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -23,7 +19,7 @@
 
 <br />
 
-## 🧪 Languages
+## Languages
 
 <table align="center">
   <tr>
@@ -47,25 +43,19 @@
   </tr>
 </table>
 
-## 🔮 Working at
+## Working at
 
 <details>
 <summary><strong>🌐 Viola Network</strong></summary>
-<br>
-Weaving digital tapestries that connect worlds
-<br>
-<a href="https://violanetwork.com">🔗 Explore the Magic</a>
+<a href="https://violanetwork.com"></a>
 </details>
 
 <details>
 <summary><strong>🎥 VidPlo</strong></summary>
-<br>
-seamless streaming video platform
-<br>
-<a href="https://vidplo.violanetwork.com">🔗 Witness the Spectacle</a>
+<a href="https://vidplo.violanetwork.com"></a>
 </details>
 
-## 🧙‍♂️ Skill
+## Skill
 
 ```mermaid
 graph TD
@@ -91,7 +81,7 @@ graph TD
     style D fill:#FFD700,stroke:#FFD700,stroke-width:2px
 ```
 
-## 💫 Summon Me for Collaboration!
+## Wanna Collaborate?
 
 - Email: taqdees678@gmail.com
 - Discord: taqdees__
