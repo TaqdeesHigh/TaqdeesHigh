@@ -1,95 +1,28 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/-%F0%9F%92%BB%20Taqdees%20%7C%20Backend-222222?style=for-the-badge" alt="Taqdees | Backend Developer" />
-</div>
+# Taqdees - A Software Developer
 
-<div align="center">
-  <a href="mailto:taqdees678@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4088?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/TaqdeesHigh/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+Hey there,
 
-<br />
+I'm Taqdees, a software developer. I've worked with a variety of programming languages and technologies, and I'm always eager to take on new challenges.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taqdeesHigh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="TaqdeesHigh's GitHub Stats" />
-</div>
-
-<br />
-
-## Languages
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-      <br>
-      <strong>Frontend</strong>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=php,py,cs,nodejs,laravel" />
-      <br>
-      <strong>Backend</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-      <br>
-      <strong>Database</strong>
-    </td>
-  </tr>
-</table>
-
-## Working at
-
-<details>
-<summary><strong>🌐 Viola Network</strong></summary>
-<a href="https://violanetwork.com"></a>
-</details>
-
-<details>
-<summary><strong>🎥 VidPlo</strong></summary>
-<a href="https://vidplo.violanetwork.com"></a>
-</details>
-
-## Skill
-
-```mermaid
-graph TD
-    A --> B[Frontend]
-    A --> C[Backend]
-    
-    B --> E[HTML/CSS]
-    B --> F[JavaScript]
-    B --> G[React]
-    
-    C --> H[PHP]
-    C --> I[Python]
-    C --> J[C#]
-    C --> K[Node.js]
-    C --> L[Laravel]
-    
-    D --> M[MySQL]
-    D --> N[MongoDB]
-
-    style A fill:#58A6FF,stroke:#58A6FF,stroke-width:2px
-    style B fill:#FF4088,stroke:#FF4088,stroke-width:2px
-    style C fill:#00CC66,stroke:#00CC66,stroke-width:2px
-    style D fill:#FFD700,stroke:#FFD700,stroke-width:2px
-```
-
-## Wanna Collaborate?
-
+## Contact
 - Email: taqdees678@gmail.com
-- Discord: taqdees__
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend;Creative+Problem+Solving;Innovative+Solutions;Continuous+Learning" alt="Typing SVG" />
-</div>
+## Skills
+Here's a rundown of the languages, frameworks, and tools I'm familiar with:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Crafted%20with-🔮%20and%20☕-blueviolet?style=for-the-badge" alt="Crafted with Heart and coffee" />
-</p>
+- **Programming Languages:** C#, .NET, Python, JavaScript, Node.js, HTML, CSS, PHP, and a little bit of C and C++
+- **Web Frameworks:** Laravel, React, Svelte, Next.js
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, Visual Studio, Visual Studio Code, Unity
+
+## Experience
+
+### Viola Network
+**https://violanetwork.net**
+At Viola Network, I'm part of a team working on creating innovative and practical projects for a wide range of users. Our goal is to develop tools, platforms, and services that make a real difference in people's daily digital lives.
+
+### Vidplo
+**https://vidplo.violanetwork.com**
+Vidplo is a Ready to use video-sharing platform built on the Viola Network infrastructure.
+
+Feel free to reach out if you'd like to learn more about my work or discuss any potential collaborations. I'm always excited to connect with fellow developers and explore new opportunities!
