@@ -4,9 +4,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Passionate+Problem+Solver;Always+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Software+Developer;Passionate+Problem+Solver;Always+Building+Something+New!" />
 </p>
-
 ---
 
 ### 📩 Contact  
