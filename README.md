@@ -1,15 +1,31 @@
 <h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub Logo" />
   <br />
-  Taqdees – Just a guy who loves to code.
+  <strong>Taqdees</strong>
 </h1>
+
+<p align="center">
+  Just a guy who loves to code — backend is my playground, but I build frontend, mobile apps, and software too.
+</p>
 
 ---
 
-<p align="center">
-  I build full frontend & backend systems, mobile apps, and custom software solutions.<br />
-  Comfortable across a wide range of programming languages and tools.<br />
-  Currently founder at <a href="https://lyvio.org" target="_blank">Lyvio</a> – a company helping businesses grow online by building smart tools for freelancers and small businesses.<br />
-  Lyvio is releasing its first product soon. <a href="https://lyvio.org/products" target="_blank">Check it out here</a>.<br />
-  <a href="https://lyvio.org/about" target="_blank">Learn more about Lyvio</a>.
-</p>
+- Full-stack web development (frontend & backend)
+- Mobile app development
+- Custom software & tools
+- Freelance-ready solutions
+
+---
+
+- Code in multiple languages & frameworks
+- Self-taught, always learning and building
+- Founder of [Lyvio](https://lyvio.org) — helping businesses grow online
+
+---
+
+Lyvio is launching its **first product** — crafted to support freelancers and small businesses.  
+👉 [See what's coming →](https://lyvio.org/products)
+
+---
+
+- [About Lyvio](https://lyvio.org/about)
